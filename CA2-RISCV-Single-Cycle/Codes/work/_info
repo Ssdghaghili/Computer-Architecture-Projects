@@ -1,0 +1,371 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/UT/term 4/Az-madar-m/final_dldLab3/lab3
+vAdder
+Z0 !s110 1686227633
+!i10b 1
+!s100 mYZ[KID1^?73;IOAn^GbA0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQQbcfC7GcAbK8CUCQ<E@a2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/UT/term 4/CA/CAs/CA2_810100119_810100173
+w1685195890
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Adder.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/Adder.v
+!i122 528
+Z4 L0 1 3
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1686227632.000000
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder
+vALU
+!s110 1686227631
+!i10b 1
+!s100 _dL<RWlVgK_IJP[BL30=i1
+R1
+IAI1kX6Z:`GJz<68Kz^[=@3
+R2
+R3
+w1686227628
+8D:\UT\term 4\CA\CAs\CA2_810100119_810100173\ALU.v
+FD:\UT\term 4\CA\CAs\CA2_810100119_810100173\ALU.v
+!i122 520
+Z9 L0 1 14
+R5
+r1
+!s85 0
+31
+!s108 1686227631.000000
+!s107 D:\UT\term 4\CA\CAs\CA2_810100119_810100173\ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\UT\term 4\CA\CAs\CA2_810100119_810100173\ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vController
+R0
+!i10b 1
+!s100 ^k^F0H9IVTJ9ljKfUh>0c3
+R1
+Icd0_f_n^UK@B:5<_a>?613
+R2
+R3
+w1685784045
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Controller.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/Controller.v
+!i122 529
+L0 33 85
+R5
+r1
+!s85 0
+31
+Z10 !s108 1686227633.000000
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Controller.v|
+!i113 1
+R7
+R8
+n@controller
+vDataMem
+Z11 !s110 1686227632
+!i10b 1
+!s100 5QdHm8;:<HJcQXgjLOn]53
+R1
+IcB^T]@I?dD[A8eO6P4J620
+R2
+R3
+w1685782790
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataMem.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataMem.v
+!i122 523
+L0 1 13
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataMem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataMem.v|
+!i113 1
+R7
+R8
+n@data@mem
+vDataPath
+R0
+!i10b 1
+!s100 E5k9]NlNP4T<Q=]<heJmD0
+R1
+INj5ngV5I3gc5TaNQYU6cm0
+R2
+R3
+w1685785835
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataPath.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataPath.v
+!i122 531
+L0 1 19
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataPath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataPath.v|
+!i113 1
+R7
+R8
+n@data@path
+vImmExtend
+R11
+!i10b 1
+!s100 66:fGW53U9JS@`ZT`^7`f3
+R1
+I4gQ^d5GTOgNi5j;H8XOO43
+R2
+R3
+w1685299367
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/ImmExtend.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/ImmExtend.v
+!i122 526
+L0 7 12
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/ImmExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/ImmExtend.v|
+!i113 1
+R7
+R8
+n@imm@extend
+vInstMemory
+R11
+!i10b 1
+!s100 jLhUj=Tf0XI>?5e;_:k4g3
+R1
+I@>UDnViHm2EdA0BYWQhKA0
+R2
+R3
+w1685777810
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/InstMemory.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/InstMemory.v
+!i122 522
+L0 1 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/InstMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/InstMemory.v|
+!i113 1
+R7
+R8
+n@inst@memory
+vMux2to1
+R11
+!i10b 1
+!s100 TIjlG3;[OVhKX_MoPgj:K0
+R1
+I@T4gD10jc5l:D5]Q]g6kc1
+R2
+R3
+w1685180682
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux2to1.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux2to1.v
+!i122 524
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux2to1.v|
+!i113 1
+R7
+R8
+n@mux2to1
+vMux3to1
+R11
+!i10b 1
+!s100 1]gkT_j3Jnj063cK4>ozb0
+R1
+ILVR;hNa]7RSG:QdPi64lE0
+R2
+R3
+w1685198131
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux3to1.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux3to1.v
+!i122 525
+L0 1 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux3to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux3to1.v|
+!i113 1
+R7
+R8
+n@mux3to1
+vMux4to1
+R0
+!i10b 1
+!s100 iO1G9:IU91i:7TNMQH<Mg0
+R1
+IcVP9JWPb@dDX@IM1_cB923
+R2
+R3
+w1685432942
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux4to1.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux4to1.v
+!i122 530
+Z12 L0 1 7
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux4to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux4to1.v|
+!i113 1
+R7
+R8
+n@mux4to1
+vRegister
+R11
+!i10b 1
+!s100 oD_Jo3;T;nBG2a[Oba5H42
+R1
+I5Z<mNX6OC4LRcY7;a]:Ho1
+R2
+R3
+w1685777774
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Register.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/Register.v
+!i122 527
+R12
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Register.v|
+!i113 1
+R7
+R8
+n@register
+vRegisterFile
+R11
+!i10b 1
+!s100 NZA=X0R[h]ccZ;HzP[5B@1
+R1
+I6HkhYoh[B>daZ?7W0]7RZ3
+R2
+R3
+w1685785998
+8D:\UT\term 4\CA\CAs\CA2_810100119_810100173\RegisterFile.v
+FD:\UT\term 4\CA\CAs\CA2_810100119_810100173\RegisterFile.v
+!i122 521
+R9
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:\UT\term 4\CA\CAs\CA2_810100119_810100173\RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\UT\term 4\CA\CAs\CA2_810100119_810100173\RegisterFile.v|
+!i113 1
+R7
+R8
+n@register@file
+vRiscvSingleCyle
+R0
+!i10b 1
+!s100 XmaOJ>Jh6OUJCoV=h2=LN3
+R1
+I9T^?k<UbLR=Gzcj4`Ba<a0
+R2
+R3
+w1685786816
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/RiscvSingleCyle.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/RiscvSingleCyle.v
+!i122 532
+L0 1 8
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/RiscvSingleCyle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/RiscvSingleCyle.v|
+!i113 1
+R7
+R8
+n@riscv@single@cyle
+vTestRiscV
+!s110 1685786432
+!i10b 1
+!s100 aVFgFTOb_iHLgaP=dH]Ol0
+R1
+IfiDgk=zObhFT`zkQ_6HLi1
+R2
+R3
+w1685786428
+8D:\UT\term 4\CA\CAs\CA2_810100119_810100173\TestRiscV.v
+FD:\UT\term 4\CA\CAs\CA2_810100119_810100173\TestRiscV.v
+!i122 492
+Z13 L0 1 9
+R5
+r1
+!s85 0
+31
+!s108 1685786432.000000
+!s107 D:\UT\term 4\CA\CAs\CA2_810100119_810100173\TestRiscV.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\UT\term 4\CA\CAs\CA2_810100119_810100173\TestRiscV.v|
+!i113 1
+R7
+R8
+n@test@risc@v
+vTestSingleCycle
+R0
+!i10b 1
+!s100 `^=EKm2cN`2GAhFRkndc;2
+R1
+IiNaeeMgChlOOeY;jHClN70
+R2
+R3
+w1685786634
+8D:/UT/term 4/CA/CAs/CA2_810100119_810100173/TestSingleCycle.v
+FD:/UT/term 4/CA/CAs/CA2_810100119_810100173/TestSingleCycle.v
+!i122 533
+R13
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/UT/term 4/CA/CAs/CA2_810100119_810100173/TestSingleCycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/UT/term 4/CA/CAs/CA2_810100119_810100173/TestSingleCycle.v|
+!i113 1
+R7
+R8
+n@test@single@cycle
